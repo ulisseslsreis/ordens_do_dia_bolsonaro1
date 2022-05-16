@@ -163,7 +163,7 @@ ordens_bigram_united <- bigram_filtered |>
   unite(bigram, word1, word2, sep = " ")
 
 ordens_bigram_graph <- ordens_bigram_count |> 
-  head(n = 60) |> 
+  head(n = 50) |> 
   graph_from_data_frame()
 
 ggraph(ordens_bigram_graph, layout = "fr") +
