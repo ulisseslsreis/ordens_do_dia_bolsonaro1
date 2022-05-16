@@ -7,4 +7,6 @@ da data que marcou o golpe de 31 de março de 1964. Antendendo à determinação
 respectivos Ministros da Defesa apresentaram pronunciamentos efusivamente positivos acerca
 da data. Analisamos os quatro emitidos em 2019, 2020, 2021 e 2022.
 
-Os dados estão disponíveis para replicação e aprimoramento da pesquisa.
+Os dados estão disponíveis para replicação e aprimoramento da pesquisa. As bases de dados
+estão listadas na pasta `data`, o código de análise está na pasta `R` e as imagens geradas
+estão depositadas na pasta `img`.
