@@ -1,4 +1,6 @@
 
+# Carregando os pacotes
+
 library(tidyverse)
 library(tidytext)
 library(tm)
