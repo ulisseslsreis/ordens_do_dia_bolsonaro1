@@ -74,7 +74,7 @@ ordens_bolsonaro1 |>
   mutate(word = fct_reorder(word, n)) |> 
   filter(n > 5) |> 
   ggplot(aes(word, n)) +
-  geom_col(fill = "#00008B") +
+  geom_col(fill = 1) +
   coord_flip() +
   labs(
     x = NULL,
